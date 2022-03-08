@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pngs/about.png</file>
+        <file>pngs/clear.png</file>
+        <file>pngs/close.png</file>
+        <file>pngs/close_all.png</file>
+        <file>pngs/copy.png</file>
+        <file>pngs/cut.png</file>
+        <file>pngs/exit.png</file>
+        <file>pngs/font.png</file>
+        <file>pngs/new.png</file>
+        <file>pngs/open.png</file>
+        <file>pngs/paste.png</file>
+        <file>pngs/redo.png</file>
+        <file>pngs/save.png</file>
+        <file>pngs/save_all.png</file>
+        <file>pngs/save_as.png</file>
+        <file>pngs/select.png</file>
+        <file>pngs/undo.png</file>
+        <file>pngs/XML_settings.xml</file>
+    </qresource>
+</RCC>
